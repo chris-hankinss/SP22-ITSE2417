@@ -50,7 +50,7 @@ public class Itse2417Main
             new FinalProj(),          // Conzelman  
             new FinalProj(),          // Garcia Tadeo
             new FinalProj(),          // Gilhespy
-            new FinalProj(),          // Hankins
+            new Hankins(),            // Hankins
             new FinalProj(),          // Hernandez
             new FinalProj(),          // Kline
             new FinalProj(),          // Koranda
